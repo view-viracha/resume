@@ -15,6 +15,5 @@ font-family: 'Prompt', sans-serif;
 font-weight: bold;
 }
 .my-row{
-  border-style: dotted;
-  border-color: brown;
+  background-color: #FFDAEF;
 }
