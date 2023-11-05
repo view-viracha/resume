@@ -110,6 +110,7 @@
         <p><br>
         </p>
       </div>
+      <br>
       <div class="row my-footer">
         <h2 class="text-center"><br>
         </h2>
@@ -117,6 +118,7 @@
         <p><br>
         </p>
       </div>
+      <br>
       <div class="row"> <button type="button" class="btn btn-dark" data-bs-toggle="modal"
           data-bs-target="#exampleModal"> THANK YOU </button>
         <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
